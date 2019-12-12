@@ -1,8 +1,9 @@
 # Exercise 1
-> This is my first exercise in Github
+> This is my first exercise in Github.
 
 ## This is a link :
 [GitHub](http://github.com)
+
 
 ## This is an unordered list:
 * list a
